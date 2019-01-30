@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/post_item.xml",
+        "source": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/src/main/res/layout/post_item.xml"
+    },
+    {
+        "merged": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/detail_item.xml",
+        "source": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/src/main/res/layout/detail_item.xml"
+    },
+    {
+        "merged": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/album_item.xml",
+        "source": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/src/main/res/layout/album_item.xml"
+    },
+    {
+        "merged": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_post.xml",
+        "source": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/src/main/res/layout/fragment_post.xml"
+    },
+    {
+        "merged": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_detail.xml",
+        "source": "/Users/dinoomanovic/AndroidStudioProjects/ChallengeAccepted/app/src/main/res/layout/fragment_detail.xml"
+    }
+]
